@@ -1,0 +1,3 @@
+[submodule "coreos-baremetal"]
+	path = coreos-baremetal
+	url = git@github.com:coreos/coreos-baremetal.git
